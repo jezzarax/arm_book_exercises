@@ -14,6 +14,7 @@ jupyter = "*"
 seaborn = "*"
 statsmodels = "*"
 jupyterlab = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
