@@ -26,7 +26,7 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 2       |    - |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 3       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 4       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
-| 5       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
+| 5       |    * |    V |    V |    - |    - |    - |    - |    - |    - |    - |    - |
 | 6       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 7       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 8       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
@@ -47,3 +47,11 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 23      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 24      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 25      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
+
+Legend: 
+
+```
+X - not started
+* - in progress
+V - completed
+```
