@@ -26,7 +26,7 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 2       |    - |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 3       |    V |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 4       |    V |    V |    V |    V |    V |    V |    * |    * |    - |    - |    - |
-| 5       |    * |    V |    V |    * |    - |    - |    - |    - |    - |    - |    - |
+| 5       |    * |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 6       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 7       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 8       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
