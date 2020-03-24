@@ -26,7 +26,7 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 2       |    - |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 3       |    V |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 4       |    V |    V |    V |    V |    V |    V |    * |    * |    - |    - |    - |
-| 5       |    V |    V |    V |    V |    V |    V |    V |    V |    V |    V |    - |
+| 5       |    V |    V |    V |    V |    V |    V |    V |    V |    V |    V |    ! |
 | 6       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 7       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 8       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
@@ -48,10 +48,15 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 24      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 25      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 
-Legend: 
+#### Legend: 
 
 ```
 X - not started
 * - in progress
 V - completed
+! - blocked
 ```
+
+#### Notes
+
+* Ex 5.11 is blocked due to the dataset from the website has different structure from the examples in the book.
