@@ -16,6 +16,7 @@ statsmodels = "*"
 jupyterlab = "*"
 tqdm = "*"
 yellowbrick = "*"
+py-glm = {git = "https://github.com/madrury/py-glm.git"}
 
 [requires]
 python_version = "3.7"
