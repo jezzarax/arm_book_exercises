@@ -27,7 +27,7 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 3       |    V |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |
 | 4       |    V |    V |    V |    V |    V |    V |    * |    * |    - |    - |    - |
 | 5       |    V |    V |    V |    V |    V |    V |    V |    V |    V |    V |    ! |
-| 6       |    * |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
+| 6 N. 2  |    V |    * |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 7       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 8       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 9       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
@@ -59,4 +59,5 @@ V - completed
 
 #### Notes
 
-* Ex 5.11 is blocked due to the dataset from the website has different structure from the examples in the book.
+1. Ex 5.11 is blocked due to the dataset from the website has different structure from the examples in the book.
+2. Some models for chapter 6 are not present in statsmodels or sklearn. I'll skip it for now as the general approaches and ideas are clear so far.
