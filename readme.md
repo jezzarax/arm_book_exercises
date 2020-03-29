@@ -28,7 +28,7 @@ I was doing it with jupyterlab. Some charts, formulae and layouts might be broke
 | 4       |    V |    V |    V |    V |    V |    V |    * |    * |    - |    - |    - |
 | 5       |    V |    V |    V |    V |    V |    V |    V |    V |    V |    V |    ! |
 | 6 N. 2  |    V |    * |    - |    - |    - |    - |    - |    - |    - |    - |    - |
-| 7       |    V |    V |    V |    - |    - |    - |    - |    - |    - |    - |    - |
+| 7       |    V |    V |    V |    V |    - |    - |    - |    - |    - |    - |    - |
 | 8       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 9       |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
 | 10      |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |    - |
@@ -61,3 +61,4 @@ V - completed
 
 1. Ex 5.11 is blocked due to the dataset from the website has different structure from the examples in the book.
 2. Some models for chapter 6 are not present in statsmodels or sklearn. I'll skip it for now as the general approaches and ideas are clear so far.
+3. Ex 7.4 to be reviewed and the sim function to be extracted separately
